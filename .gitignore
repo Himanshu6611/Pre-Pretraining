@@ -1,0 +1,12 @@
+# Model outputs
+outputs/
+*.pt
+*.bin
+*.ckpt
+
+# Virtual environment
+.venv/
+__pycache__/
+
+# Cache files
+.cache/
