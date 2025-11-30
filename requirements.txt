@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+accelerate
+peft
+sentencepiece
+bitsandbytes
+protobuf
+numpy
+tqdm
+scipy
+pandas
